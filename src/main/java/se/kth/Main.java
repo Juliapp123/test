@@ -7,7 +7,7 @@ public class Main{
     }
 
     public static int test(int a, int b){
-        int c = a; 
+        int c = a + b; 
         return c;
     }
 }
