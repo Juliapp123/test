@@ -10,4 +10,4 @@ public class Main{
         int c = a + b;
         return c;
     }
-}
+
